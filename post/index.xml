@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kirill Sosnin</title>
+    <link>https://kirillsosnin.github.io/BD_portfolio/post/</link>
+    <description>Recent content in Projects on Kirill Sosnin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kirillsosnin.github.io/BD_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: configuring a 3-node kafka cluster</title>
+      <link>https://kirillsosnin.github.io/BD_portfolio/post/chapter-1/</link>
+      <pubDate>Wed, 12 Jan 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://kirillsosnin.github.io/BD_portfolio/post/chapter-1/</guid>
+      <description>Apache Kafka is a distributed and easily scalable messaging system with high bandwidth that can process huge amount of data in real time. It is an open source platform developed within the Apache Foundation. The main differences between Apache Kafka and traditional messaging systems:
+ Apache Kafka is a distributed system, so it is adapted to scale High performance both in the case of publishing messages and in the case of subscribing to them Apache Kafka stores messages on disk, so it can be used for batch data transfer (for example, for ETL processes: data extraction, transformation and loading) In this case, we will use the architecture as shown in the figure below, i.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Bank customers churn predictions</title>
+      <link>https://kirillsosnin.github.io/BD_portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 12 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kirillsosnin.github.io/BD_portfolio/post/chapter-2/</guid>
+      <description>The Bank can take enough insights from the Exploratory Data Analysis performed to understand which kind of Customers are more likely to leave. XGBoost Classifier model can be safely used to safely predict whether a customer will leave or not. By looking at the feature importance, we can mitigate further churn by applying the necessary remedial actions  Link to GitHub</description>
+    </item>
+    
+  </channel>
+</rss>
