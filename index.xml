@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jan 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://kirillsosnin.github.io/BD_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project I: configuring a 3-node kafka cluster</title>
+      <title>Project I: configuring a 3-nodes kafka cluster</title>
       <link>https://kirillsosnin.github.io/BD_portfolio/post/chapter-1/</link>
       <pubDate>Wed, 12 Jan 2022 11:13:32 -0400</pubDate>
       
@@ -24,6 +24,15 @@
       
       <guid>https://kirillsosnin.github.io/BD_portfolio/post/chapter-2/</guid>
       <description>The Bank can take enough insights from the Exploratory Data Analysis performed to understand which kind of Customers are more likely to leave. XGBoost Classifier model can be safely used to safely predict whether a customer will leave or not. By looking at the feature importance, we can mitigate further churn by applying the necessary remedial actions  Link to GitHub</description>
+    </item>
+    
+    <item>
+      <title>Project III: Medical insurance charge</title>
+      <link>https://kirillsosnin.github.io/BD_portfolio/post/chapter-3/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kirillsosnin.github.io/BD_portfolio/post/chapter-3/</guid>
+      <description>Classical example of regression problem: it&amp;rsquo;s necessary to predict the final price of medical insurance based on different health and other parameters of customers Exploratory Data Analysis gives a great understanding of how different variables affect the final cost of insurance. Thanks to the EDA, we can identify non-obvious patterns: for example, people with 2-3 children pay higher charges than people who have more than 4 children. With what it can be connected?</description>
     </item>
     
     <item>
